@@ -19,19 +19,19 @@ Symlink (or copy) `snooch.zsh` to `~/.oh-my-zsh/custom/ssh-agent.zsh`.
 Update your `.zshrc` file with the following line:
 
 ```sh
-antigen bundle bobsoppe/zsh-ssh-agent
+antigen bundle tetchey/zsh-ssh-agent
 ```
 
 ### [antibody](https://github.com/getantibody/antibody)
 Update your `.zshrc` file with the following line:
 
 ```sh
-antibody bundle bobsoppe/zsh-ssh-agent
+antibody bundle tetchey/zsh-ssh-agent
 ```
 
 ### [zplug](https://github.com/zplug/zplug)
 Update your `.zshrc` file with the following line:
 
 ```sh
-zplug bobsoppe/zsh-ssh-agent, use:ssh-agent.zsh, from:github
+zplug tetchey/zsh-ssh-agent, use:ssh-agent.zsh, from:github
 ```
